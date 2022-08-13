@@ -6,3 +6,7 @@ This algorithm is designed using recursion.
 
 
 You can go live with this one https://nqueen.netlify.app/
+
+
+
+![visualisation](https://user-images.githubusercontent.com/99780500/184480842-36c5a3ed-afda-4cad-b766-8eb9cc81d79b.gif)
